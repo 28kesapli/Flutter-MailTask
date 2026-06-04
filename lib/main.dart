@@ -381,5 +381,4 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
-// Kilavuz son sayfa kontrol listesi zorunlulugu olan alan hoca buraya bakıyor
 // Bu uygulama Mobil Programlama dersi kapsamında geliştirilmiştir
